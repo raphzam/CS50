@@ -1,0 +1,10 @@
+take an integer command line argument
+get key
+get plaintext
+encipher
+print ciphertext
+
+k is greater than 0
+k is less than 200
+
+0 <= k < 
